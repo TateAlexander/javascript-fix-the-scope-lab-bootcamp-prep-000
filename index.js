@@ -1,5 +1,6 @@
 var animal = 'dog'
-
+var n = 100;
+var two = 2;
 function myAnimal() {
   return animal;
 }
